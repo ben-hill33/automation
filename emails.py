@@ -45,4 +45,5 @@ else:
 
 
 if __name__ == "__main__":
-    pass
+    validate = validate_email
+    print(validate)
